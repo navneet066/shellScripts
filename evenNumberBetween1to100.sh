@@ -1,5 +1,7 @@
 #!/bin/sh
-#This script is for printing the even numbers between the 1 to 100
+# Author : Navneet Nandan Jha
+# Copyright (c) navneet066
+# This script is for printing the even numbers between the 1 to 100
 for i in {1..100}
 do
         rem=$(($i % 2))
